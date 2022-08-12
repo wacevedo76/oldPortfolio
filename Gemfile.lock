@@ -174,6 +174,7 @@ GEM
       racc (~> 1.4)
     orm_adapter (0.5.0)
     pg (1.4.3)
+    psych (3.3.2)
     public_suffix (4.0.7)
     puma (5.6.4)
       nio4r (~> 2.0)
@@ -305,6 +306,7 @@ DEPENDENCIES
   jbuilder (~> 2.7)
   listen (>= 3.0.5, < 3.2)
   pg (>= 0.18, < 2.0)
+  psych (< 4)
   puma (~> 5.6)
   rails (~> 7.0.3)
   sassc-rails
